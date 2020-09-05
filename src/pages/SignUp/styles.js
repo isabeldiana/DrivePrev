@@ -1,20 +1,20 @@
 import styled from 'styled-components';
-import imgBackgroud from '../../assets/pronto.jpg'; 
+import imgBackgroud from '../../assets/pronto.jpg';
 
 export const Container = styled.div`
-    height: 100vh;
-    display: flex;
-    align-items: stretch;
-    background-image: linear-gradient(#00995d, #004127);
+  height: 100vh;
+  display: flex;
+  align-items: stretch;
+  background-image: linear-gradient(#00995d, #004127);
 `;
 
 export const Content = styled.div`
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    place-content: center;
-    width: 100%;
-    max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  place-content: center;
+  width: 100%;
+  max-width: 500px;
 
   img {
     width: 320px;
@@ -26,12 +26,12 @@ export const Content = styled.div`
     width: 300px;
     text-align: center;
 
-  h1 {
+    h1 {
       margin-bottom: 24px;
       color: wheat;
     }
 
-  input{
+    input {
       background: #333;
       border-radius: 10px;
       border: 2px solid #333;
@@ -40,60 +40,59 @@ export const Content = styled.div`
       color: #ddd;
       font-size: 16px;
 
-  & + input{
-      margin-top: 8px;
-
+      & + input {
+        margin-top: 8px;
       }
     }
 
-  button{
-    background-image: linear-gradient(#00995d, #00150d);
-    height: 50px;
-    color: wheat;
-    width: 100%;
-    font-weight: bold;
-    font-size: 16px;
-    margin-top: 16px;
-    border-radius: 10px;
-    border: 0;
-    padding: 0 16px;
-    cursor: pointer;
-    transition: background-color 300ms;
-  }
+    button {
+      background-image: linear-gradient(#00995d, #00150d);
+      height: 50px;
+      color: wheat;
+      width: 100%;
+      font-weight: bold;
+      font-size: 16px;
+      margin-top: 16px;
+      border-radius: 10px;
+      border: 0;
+      padding: 0 16px;
+      cursor: pointer;
+      transition: background-color 300ms;
+    }
 
-  button:hover{
-    opacity: 0.8;
-  }
+    button:hover {
+      opacity: 0.8;
+    }
 
-  a{
-    color: white;
-    display: block;
-    margin-top: 24px;
-    text-decoration: none;
-    transition: color 300ms;
-  }
+    a {
+      color: white;
+      display: block;
+      margin-top: 24px;
+      text-decoration: none;
+      transition: color 300ms;
+    }
 
-  a:hover {
-    color: #999;
-  }
+    a:hover {
+      color: #999;
+    }
 
-  a.conta {
-    color: #9ed0c9;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 24px;
-    text-decoration: none;
-    transition: color 300ms;
-  }
+    a.conta {
+      color: #9ed0c9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 24px;
+      text-decoration: none;
+      transition: color 300ms;
+    }
 
-  a.conta:hover{
-    color: #9efd;
-  }
+    a.conta:hover {
+      color: #9efd;
+    }
 
-  svg {
-    margin-right: 10px;
-  }
+    svg {
+      margin-right: 10px;
+    }
   }
 `;
 export const Background = styled.div`
@@ -101,8 +100,7 @@ export const Background = styled.div`
   background: url(${imgBackgroud}) no-repeat center;
   background-size: cover;
 
-  @media only screen and (max-width: 500px){
+  @media only screen and (max-width: 500px) {
     display: none;
   }
 `;
-

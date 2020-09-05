@@ -5,8 +5,8 @@ import Routes from './routes';
 function App() {
   return (
     <>
-    <GlobalStyle />
-     <Routes/>
+      <GlobalStyle />
+      <Routes />
     </>
   );
 }
