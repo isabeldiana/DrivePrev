@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import imgBackgroud from '../../assets/medicos.jpg'; 
+import imgBackgroud from '../../assets/pronto.jpg'; 
 
 export const Container = styled.div`
     height: 100vh;
