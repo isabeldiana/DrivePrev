@@ -1,0 +1,65 @@
+.nav-space {
+    display: flex;
+    min-width: 50vw;
+    justify-content: space-between;
+    margin-left:10vw;
+    margin-right: 10vw;
+    font-size: 1.8em;
+}
+
+.carousel-size{
+    max-height: 90vh;
+}
+
+.title-h1 {
+    margin: 5vh auto;
+    text-align: center;
+}
+
+.btn-servicos {
+    text-transform: uppercase;
+    background-color:#004127 !important;
+    border-color:#004127 !important;
+}
+
+.deck-spacing {
+    display: flex;
+    justify-content: center;
+    padding: 0 10vw;
+    margin-bottom: 5vh;
+}
+
+.footer {
+    background-color: #005735 !important;
+    color: white;
+}
+
+.header {
+    background-color: lightgray !important;
+    color: black;
+}
+
+.icon-color {
+    padding: 2vh 2vw;
+}
+
+@media (max-width: 1000px) {
+    .deck-spacing {
+        display: block;
+        padding: auto;
+    }
+
+    .card-size {
+        min-width: 250px !important;
+        max-width: 300px;
+        margin-top: 20px;
+    }
+
+    .nav-space {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 800px) {
+    
+}
