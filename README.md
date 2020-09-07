@@ -13,6 +13,11 @@ DrivePrev é um projeto criado para o Mega Hack Women 2020, com o objetivo de au
 
 DrivePrev é uma aplicação que ainda está em desenvolvimento.
 
+
+## Contato
+
+[driveprev@gmail.com](driveprev@gmail.com)
+
 ## Desenvolvimento
 
 - Update your plant's growth with pictures and comments in a timeline;
@@ -40,7 +45,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled-Components](https://styled-components.com/)
 - [React-Bootstrap] (https://react-bootstrap.netlify.app/)
 
+
 ## Equipe Responsável
 ![PARTICIPANTESJPG](https://user-images.githubusercontent.com/51216648/92413107-f0d79b80-f124-11ea-9b01-d45aaa434385.JPG)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ana%20Condessa-000030?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapaulacondessa/)](https://www.linkedin.com/in/anapaulacondessa/) [![Linkedin Badge](https://img.shields.io/badge/-Stéfani%20Raulino-000030?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stéfani-raulino-9711a549/)](https://www.linkedin.com/in/stéfani-raulino-9711a549/) [![Linkedin Badge](https://img.shields.io/badge/-Isabel%20Diana-000030?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabel-diana-b67805187)](https://www.linkedin.com/in/isabel-diana-b67805187) [![Linkedin Badge](https://img.shields.io/badge/-Yolanda%20Scudeller-000030?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yolanda-moretto-scudeller-2b664435/)](https://www.linkedin.com/in/yolanda-moretto-scudeller-2b664435/) [![Linkedin Badge](https://img.shields.io/badge/-Elsa%20Lorena-000030?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/lorenatitoramos)](http://linkedin.com/in/lorenatitoramos)
+
