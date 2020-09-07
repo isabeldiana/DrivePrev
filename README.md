@@ -7,7 +7,7 @@
 ![Badge](https://img.shields.io/badge/DrivePrev-healthcare-green)
 
 ## O Projeto
-DrivePrev é um projeto criado para o Mega Hack Women 2020, com o objetivo de auxiliar pacientes a ter um controle melhor de seu histórico médico. O objetivo é facilitar a vida do paciente, permitindo que ele tenha o controle de seus dados médicos e que possa compartilhar seus documentos com quem tiver intesse, como médico da família ou médicos acompanhan
+DrivePrev é um projeto criado para o Mega Hack Women 2020, com o objetivo de auxiliar pacientes a ter um controle melhor de seu histórico médico. O objetivo é facilitar a vida do paciente, permitindo que ele tenha o controle de seus dados médicos e que possa compartilhar seus documentos com quem tiver intesse, como médico da família ou médicos acompanhamento.
 
 ## Status do Projeto
 
