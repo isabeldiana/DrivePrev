@@ -1,8 +1,8 @@
 import styled from 'styled-components';
-import imgBackgroud from '../../assets/pronto.jpg';
+import imgBackgroud from '../../assets/doc.jpg';
 
 export const Container = styled.div`
-  height: 100vh;
+  height: 110vh;
   display: flex;
   align-items: stretch;
   background-image: linear-gradient(#00995d, #004127);

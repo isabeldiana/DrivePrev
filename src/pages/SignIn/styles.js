@@ -1,8 +1,8 @@
 import styled from 'styled-components';
-import imgBackgroud from '../../assets/medicos.jpg';
+import imgBackgroud from '../../assets/doc.jpg';
 
 export const Container = styled.div`
-  height: 100vh;
+  height: 110vh;
   display: flex;
   align-items: stretch;
   background-image: linear-gradient(#00995d, #004127);
@@ -10,12 +10,12 @@ export const Container = styled.div`
 
 export const Content = styled.div`
   display: flex;
+  margin-top: 5%;
   flex-direction: column;
   align-items: center;
   place-content: center;
   width: 100%;
   max-width: 500px;
-
   img {
     width: 320px;
     margin-left: 70px;

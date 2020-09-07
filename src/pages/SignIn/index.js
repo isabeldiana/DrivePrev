@@ -14,12 +14,16 @@ export default function SignIn() {
   return (
     <Container>
       <Content>
-        <img src={Logo} alt="logo" />
+        <Link to="/">
+          <img src={Logo} alt="logo" />
+        </Link>
         <form data-aos="fade-right">
           <h1> Faça seu login</h1>
           <input type="email" placeholder="E-mail" />
           <input type="password" placeholder="Senha" />
-          <button type="submit">Entrar</button>
+          <Link to="/medicalrecord">
+            <button type="submit">Entrar</button>
+          </Link>
           <a href="/">Esqueci minha senha</a>
           <Link className="conta" to="/cadastrar">
             <FiLogIn />

@@ -15,14 +15,16 @@ export default function SignUp() {
     <Container>
       <Background />
       <Content>
-        <img src={Logo} alt="logo" />
+        <Link to="/">
+          <img src={Logo} alt="logo" />
+        </Link>
         <form data-aos="fade-left">
           <h1> Faça seu Cadastro</h1>
           <input type="text" placeholder="Nome" />
           <input type="email" placeholder="E-mail" />
           <input type="password" placeholder="Senha" />
           <button type="submit">Cadastrar</button>
-          <Link className="conta" to="/">
+          <Link className="conta" to="/login">
             <FiArrowLeft />
             Voltar para Login
           </Link>
