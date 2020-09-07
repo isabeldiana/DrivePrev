@@ -41,9 +41,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React-Bootstrap] (https://react-bootstrap.netlify.app/)
 
 ## Equipe Responsável
+![PARTICIPANTESJPG](https://user-images.githubusercontent.com/51216648/92413107-f0d79b80-f124-11ea-9b01-d45aaa434385.JPG)
 
-- [Ana Condessa] Marketing - Gestão estratégica, organização da equipe, estratégias de Marketing, apresentação, roteiro do Pitch
-- [Yolanda Scudeller] DEV - Desenvolvimento da solução, código no Github, colaboração com ideias de UX
-- [Isabel Diana] DEV - Desenvolvimento da solução, código no Github, colaboração com ideias de UX
-- [Stéfani Raulino] Business - Levantamento de dados, ideias e brainstorms nas mentorias, roteiro e Pitch
-- [Elsa Lorena] UX - Prototipação, logotipo e layouts, ideias e brainstorms
+
