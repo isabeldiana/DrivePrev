@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import imgBackgroud from '../../assets/doc.jpg';
 
 export const Container = styled.div`
-  height: 110vh;
+  height: 100vh;
   display: flex;
   align-items: stretch;
   background-image: linear-gradient(#00995d, #004127);
@@ -17,8 +17,8 @@ export const Content = styled.div`
   width: 100%;
   max-width: 500px;
   img {
-    width: 320px;
-    margin-left: 70px;
+    width: 170px;
+    margin:  -100px 0 -100px 0;
   }
 
   form {
@@ -29,6 +29,7 @@ export const Content = styled.div`
     h1 {
       margin-bottom: 24px;
       color: wheat;
+      font-size: 30px;
     }
 
     input {

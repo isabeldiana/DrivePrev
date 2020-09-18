@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { FiLogIn } from 'react-icons/fi';
 import Aos from 'aos';
 import { Container, Content, Background } from './styles';
-import Logo from '../../assets/logo.png';
+import Logo from '../../assets/logo1.png';
 import 'aos/dist/aos.css';
 
 export default function SignIn() {

@@ -11,6 +11,10 @@ export const Container = styled.div`
     font-size: 1.5em;
   }
 
+  img {
+    width: 140px;
+  }
+
   a {
     color: #333;
     text-decoration: none;
